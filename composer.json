@@ -1,5 +1,5 @@
 {
-  "name": "litto/Message",
+  "name": "litto/message",
   "description": "Flash Message for showing Errors in PHP applications",
   "type": "library",
   "require": {
