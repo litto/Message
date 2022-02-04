@@ -7,7 +7,7 @@ Display Message Simple Library for PHP projects like Errors, Warning, Success , 
 Install Using Composer or Direcly you can download from the Github Code
 You can install via composer by using this command:-
 
-composer require litto/message
+composer require litto/message:v2.0
 
 
 ##How to Use?
