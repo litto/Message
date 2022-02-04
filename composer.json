@@ -8,6 +8,7 @@
   "autoload": {
     "psr-4": {
       "Message\\": "src"
+    }
     },
   "license": "proprietary",
   "authors": [
@@ -16,5 +17,5 @@
       "email": "littochackomp@gmail.com"
     }
   ],
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
 }
