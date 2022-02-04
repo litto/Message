@@ -2,9 +2,15 @@
 
 Display Message Simple Library for PHP projects like Errors, Warning, Success , Notices.etc..
 
-Install Using Composer or Direcly you can download from the Github Code
+##How to Install?
 
-How to Use?
+Install Using Composer or Direcly you can download from the Github Code
+You can install via composer by using this command:-
+
+composer require litto/message
+
+
+##How to Use?
 
 1) Always remember to start session in your application using session-start();
 2) Copy the Message.php in Vendor folder or in your folder of your choice
